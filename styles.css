@@ -1,0 +1,13 @@
+body {
+background-color:bisque;
+}
+p{ 
+    color:brown;
+}
+p{ 
+    font-size: 25px;
+}
+table {
+       table-layout: fixed; 
+       color:blueviolet;
+    }
